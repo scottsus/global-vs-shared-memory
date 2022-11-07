@@ -1,0 +1,2 @@
+The execution time for Approach 2 is orders of magnitudes faster than the execution time for Approach 1. This is because retrieving data from shared memory requires much
+less latency comparing to always fetching from global memory.
